@@ -1,0 +1,29 @@
+{
+  "units": "meter",
+  "coordinateSystem": "Blender Z-up; glTF exporter converts to Y-up",
+  "ports": {
+    "in": [
+      -0.87,
+      0.1,
+      1.83
+    ],
+    "out": [
+      0.25,
+      0.12,
+      2.51
+    ],
+    "oil": [
+      -0.695,
+      0.15,
+      0.54
+    ]
+  },
+  "movingParts": [
+    "Kolben",
+    "Pleuel",
+    "Kurbelwelle",
+    "Saugventilklappe",
+    "Druckventilklappe"
+  ],
+  "status": "Illustratives erstes Modell, keine maßhaltige Herstellergeometrie"
+}
